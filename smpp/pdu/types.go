@@ -5,8 +5,8 @@
 package pdu
 
 import (
-	"github.com/fiorix/go-smpp/smpp/pdu/pdufield"
-	"github.com/fiorix/go-smpp/smpp/pdu/pdutlv"
+	"github.com/babuj/go-smpp/smpp/pdu/pdufield"
+	"github.com/babuj/go-smpp/smpp/pdu/pdutlv"
 )
 
 // PDU Types.
